@@ -5,15 +5,15 @@ tracks fabrication times, and calculates total profits while safely managing sha
 
 ## ✨ Features
 
-⚡ Concurrent Production: Multiple mobile models produced simultaneously.
+- ⚡ Concurrent Production: Multiple mobile models produced simultaneously.
 
-🔒 Thread Safety: Shared lists synchronized to prevent race conditions.
+- 🔒 Thread Safety: Shared lists synchronized to prevent race conditions.
 
-🛠️ Configurable Workflow: Different production modes available.
+- 🛠️ Configurable Workflow: Different production modes available.
 
-📊 Profit Tracking: Calculates fabrication time and total profit per order.
+- 📊 Profit Tracking: Calculates fabrication time and total profit per order.
 
-🧵 Multithreading Practice: Hands-on learning of Java concurrency.
+- 🧵 Multithreading Practice: Hands-on learning of Java concurrency.
 
 ## 🎯 Purpose
 
@@ -21,15 +21,14 @@ Designed for educational purposes to practice Java concurrency, thread managemen
 
 ## 💻 Technologies
 
-☕ Java (compatible with Java 8+)
+- ☕ Java (compatible with Java 8+)
 
-🧵 Threads (Runnable, Thread)
+- 🧵 Threads (Runnable, Thread)
 
-🔐 Thread-safe lists 
+- 🔐 Thread-safe lists 
 
 ## 👨‍💻 Author:
 albertoportfolio
 
 ## 📄 License
-
 Distributed for educational purposes. Free to adapt and reuse for learning and practice.
