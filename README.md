@@ -1,9 +1,9 @@
-🍏 Concurrent Mobile Factory — Java
+# 🍏 Concurrent Mobile Factory — Java
 
 A Java application simulating a mobile phone factory using multithreading. Produces multiple mobile models (basic and pro) concurrently,
 tracks fabrication times, and calculates total profits while safely managing shared resources.
 
-✨ Features
+## ✨ Features
 
 ⚡ Concurrent Production: Multiple mobile models produced simultaneously.
 
@@ -15,21 +15,21 @@ tracks fabrication times, and calculates total profits while safely managing sha
 
 🧵 Multithreading Practice: Hands-on learning of Java concurrency.
 
-🎯 Purpose
+## 🎯 Purpose
 
 Designed for educational purposes to practice Java concurrency, thread management, and synchronization. Not intended for production use.
 
-💻 Technologies
+## 💻 Technologies
 
 ☕ Java (compatible with Java 8+)
 
 🧵 Threads (Runnable, Thread)
 
-🔐 Thread-safe lists via Collections.synchronizedList
+🔐 Thread-safe lists 
 
-👨‍💻 Author:
+## 👨‍💻 Author:
 albertoportfolio
 
-📄 License
+## 📄 License
 
 Distributed for educational purposes. Free to adapt and reuse for learning and practice.
